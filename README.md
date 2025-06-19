@@ -1,1 +1,1 @@
-# Fast_Type
+Typing Speed Test ApplicationThis is a simple web-based Typing Speed Test application that helps users improve their typing speed and accuracy. It presents a random paragraph of text, and as the user types, it provides real-time feedback on correctness. Upon completion, it calculates Words Per Minute (WPM) and accuracy.

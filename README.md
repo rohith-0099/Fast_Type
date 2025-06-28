@@ -13,9 +13,13 @@ This is a **simple, responsive web-based Typing Speed Test** application built u
 ## 📂 Project Structure
 
 typing-speed-test/
+
 │
+
 ├── index.html # Main HTML structure
+
 ├── style.css # Custom styles for layout and design
+
 └── script.js # Functionality and typing logic
 
 
